@@ -10,5 +10,5 @@ echo "test Cedric n";
 
 echo " del ta ligne batard";
 
-
+//test ouverture
 ?>
