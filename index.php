@@ -8,4 +8,5 @@
 
 echo "test Cedric n";
 
+echo "salut";
 ?>
